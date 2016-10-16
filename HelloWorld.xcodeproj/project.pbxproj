@@ -514,6 +514,7 @@
 				0D5CF01A1DB404ED007CC2A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0D5CF01B1DB404ED007CC2A2 /* Build configuration list for PBXNativeTarget "HelloWorldTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +523,7 @@
 				0D5CF01D1DB404ED007CC2A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0D5CF01E1DB404ED007CC2A2 /* Build configuration list for PBXNativeTarget "HelloWorldUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +532,7 @@
 				0D5CF0201DB404ED007CC2A2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
